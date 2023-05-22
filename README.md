@@ -1,3 +1,11 @@
+How to start?
+
+Please first run npm install
+
+then in the localhost:3000 run npm start
+
+///////
+
 Implementation:
 1. What libraries did you use? What are they used for? Why did you choose them
 specifically?
