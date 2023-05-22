@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+Implementation:
+1. What libraries did you use? What are they used for? Why did you choose them
+specifically?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I only used CSS library Tailwind. I chose it because it was one of the optional choices given in the assignment and apart from that Tailwind is the tool which has become one of the most preffered CSS library in the market.
 
-## Available Scripts
+2. What improvements or new features would you add if you had more time to work on
+the problem?
 
-In the project directory, you can run:
+As of now i made the url endpoint city static with Berlin. I could let the users choose wherever they want by using their geolocation. With the api i use it wasn't very practical to implement the longtitude and latitudes. Another new feature i would add would be to create a calendar and book between certain hours. In the current implementation if it is booked any day then i don't let it be picked again. I could make it depending on the date as well.
 
-### `npm start`
+3. Which parts did you find most difficult and which parts did you spend the most time
+with?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I spent most time doing the design pretty. Secondly i spent for refactoring the code and moving some logic out of the components.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4. What are key things to consider when deploying this application for customer
+use/production?
 
-### `npm test`
+Environment Configuration, scalability,testing,performance optimization
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Feedback:
+1. How did you find the challenge overall? Did you have any issues or have difficulties completing?
 
-### `npm run build`
+Challenge was fun and testing many different aspects of coding. I didn't have diffuculties completing.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. We would love to hear any suggestions or improvements you have to make this
+challenge better! (Optional)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+I think the challenge is very nicely done as it is in the current version.
